@@ -1,0 +1,6 @@
+{
+  "name": "TRAZYL Industrial Exchange",
+  "description": "Enterprise B2B Industrial Trading & Procurement Exchange. Factory demand reverse bids, split orders, AI material matching, supply aggregation, and weighbridge settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
